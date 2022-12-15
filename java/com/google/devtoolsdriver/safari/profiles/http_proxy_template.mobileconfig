@@ -20,9 +20,9 @@
       <key>ProxyCaptiveLoginAllowed</key>
       <false/>
       <key>ProxyServer</key>
-      <string>HOSTNAME</string>
+      <string>192.168.8.183</string>
       <key>ProxyServerPort</key>
-      <integer>0</integer>
+      <integer>3128</integer>
       <key>ProxyType</key>
       <string>Manual</string>
     </dict>
